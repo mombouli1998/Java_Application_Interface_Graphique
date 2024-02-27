@@ -6,5 +6,5 @@ Connaître l’écriture d’un chiffre en lettres lorsque l’on clique sur un 
 https://1drv.ms/u/s!AoB5kDHqU6MP2XIdJSQ_LmstDmLs?e=SlvhMW
 
 ## Exercice2
-![https://goopics.net/i/g37uim](https://goopics.net/i/g37uim)
+![https://i.goopics.net/g37uim.png](https://i.goopics.net/g37uim.png)
 https://1drv.ms/u/s!AoB5kDHqU6MP2XRFp1UvnJAQuzUm?e=CwZYKU
