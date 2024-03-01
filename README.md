@@ -9,5 +9,4 @@ nom s’affiche sur le bouton appelé «nMetier ». Lorsque les deux choix affic
 concordent un message « Gagné ! » sinon c’est le message « Encore ! » qui est affiché.
 Cette interface contient deux sous-menus (rejouer et quitter).
 ![https://i.goopics.net/g37uim.png](https://i.goopics.net/g37uim.png)
-#### Lien de l'application :
-https://1drv.ms/u/s!AoB5kDHqU6MP2XRFp1UvnJAQuzUm?e=CwZYKU
+
